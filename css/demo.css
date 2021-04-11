@@ -1,0 +1,77 @@
+body {
+    font-family: Sans-Serif;
+}
+
+#fork {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
+
+.legend {
+    /*width: 150px;*/
+	height:auto;
+	/*padding:15px;
+    border: 1px solid rgb(200, 200, 200);*/
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.legend .title {
+    display: block;
+    margin-bottom: 2em;
+    line-height: 1.2em;
+    padding: 0 0.3em;
+}
+
+.legend .color-sample {
+    display: block;
+    float: left;
+    width: 1.5em;
+    height: 1.5em;
+    border: 2px solid;
+    border-radius: 0.3em; 
+    margin-right: 0.5em;
+}
+
+.send {
+    height: 140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #5bc0de;
+}
+
+.send #action {
+    width: 100%;
+    border: solid 1px white;
+    font-size: 20px;
+}
+
+.send .h {
+    height: 50px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.fields {
+    margin-top: 100px;
+}
+
+td .delete {
+    margin-left: : 5px;
+}
+
+td .edit {
+    margin-right: 5px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
