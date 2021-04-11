@@ -1,5 +1,7 @@
 # Associates API
 
+![](/screen.jpg)
+
 This is just a simple CRUD API system with Table and Chart reloaded by jQuery. In the form are the fields: First Name, Last Name and Participation, the latter needs an insertion limit of up to 100%, so our API has a validation that blocks insertions above 100%. All fields are required and validate with codeigniter form_validation.
 
 # Demo:
