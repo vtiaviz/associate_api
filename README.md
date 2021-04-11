@@ -7,7 +7,7 @@ This is just a simple CRUD API system with Table and Chart reloaded by jQuery. I
 # Demo:
 [Preview Demo](https://apivti.000webhostapp.com/)
 
-# Instalação:
+# Instalation:
 - Unzip the content in your favorite webserver folder.
 - Create a data base called 'bd_api' in phpmysql
 - Import the file 'bd_api.sql' to the data base 'bd_api'
