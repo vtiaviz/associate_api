@@ -10,7 +10,7 @@ This is just a simple CRUD API system with Table and Chart reloaded by jQuery. I
 # Instalação:
 - Unzip the content in your favorite webserver folder.
 - Create a data base called 'bd_api' in phpmysql
-- Import the file 'bd_api.sql', from folder 'sql', to the data base 'bd_api'
+- Import the file 'bd_api.sql' to the data base 'bd_api'
 
 # Use
 - Start your webserver
