@@ -19,7 +19,7 @@ This is just a simple CRUD API system with Table and Chart reloaded by jQuery. I
 - Take care with the limit of participations (100%)
 
 # API
-## Requests Link: localhost/test_api/action
+## Link Request: localhost/test_api/action
 1. GET: 
 - data:{data_action:'fetch_all'}
 - data:{data_action:'fetch_single', user_id:user_id}
