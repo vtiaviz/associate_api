@@ -19,17 +19,15 @@ This is just a simple CRUD API system with Table and Chart reloaded by jQuery. I
 - Take care with the limit of participations (100%)
 
 # API
+## Link: localhost/test_api/action
 1. GET: 
-- localhost/test_api/action
-- data:{data_action:'fetch_all'} or data:{data_action:'fetch_single', user_id:user_id}
+- data:{data_action:'fetch_all'}
+- data:{data_action:'fetch_single', user_id:user_id}
 2. POST: 
-- localhost/test_api/action
 - data:{data_action:'insert', first_name:first_name, last_name:last_name, participation:participation}
 3. PUT: 
-- localhost/test_api/action
 - data:{data_action:'update', first_name:first_name, last_name:last_name, participation:participation, user_id:user_id}
 4. DELETE: 
-- localhost/test_api/action
 - data:{data_action:'delete', user_id:user_id}
 
 # Functions:
